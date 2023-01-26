@@ -20,7 +20,7 @@ I am a firm believer in open-source projects, and have learned from many great p
 * [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject)
 * [Stanford Pupper](https://pupper-independent-study.readthedocs.io/en/latest/)
 
-A project that I am currently working on is the development of TerraBot, and in house design by DIRA lab member and MSME student [Dakota Rufino](https://www.linkedin.com/in/dakota-rufino-266277159) that is an extension of the Stanford Pupper which is capable of autonomous navigation using strictly onboard compute and sensors. If its not edge, then its not autonomous!
+A project that I am currently working on is the development of TerraBot, and in house design by DIRA lab member and MSME student [Dakota Rufino](https://www.linkedin.com/in/dakota-rufino-266277159) that is an extension of the Stanford Pupper which is capable of autonomous navigation using strictly onboard compute and sensors. If its not edge computing, then its not autonomous!
 
 Another project that I am also working on is the development of a wheel-legged version of Stanford Doggo, or as we call our robot "Clemson Tigger". I am helping mentor undergraduate [Jackson Erb](https://www.linkedin.com/in/jackson-erb-327b01207) in the design, construction, and testing of a mechanism which is able to fit within the existing output shaft configuration. Once complete, we will open source the design, code, and results on github to contribute to this project. 
 
