@@ -22,6 +22,8 @@ I am a firm believer in open-source projects, and have learned from many great p
 
 A project that I am currently working on is the development of TerraBot, and in house design that is an extension of the Stanford Pupper which is capable of autonomous navigation using strictly onboard compute and sensors. If its not edge, then its not autonomous!
 
+Another project that I am also working on is the development of a wheel-legged version of Stanford Doggo, or as we call our robot "Clemson Tigger". I am helping mentor undergraduate Jackson Erb in the design, construction, and testing of a mechanism which is able to fit within the existing output shaft configuration. Once complete, we will open source the design, code, and results on github to contribute to this project. 
+
 I am in the process of updating this webpage to include my official, and unofficial works completed during my time at Clemson University. So stay tuned for more updates to come!
 
 You can contact me by email: agkrolicki@gmail.com
