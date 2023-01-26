@@ -12,7 +12,9 @@ My name is Alexander Krolicki and I graduated from Clemson University the depart
 
 My graduate advisor was [Umesh Vaidya](https://www.clemson.edu/cecas/departments/me/people/faculty/Vaidya.html) and I helped create the [Distributed Intelligence and Robot Autonomy Lab](https://cecas.clemson.edu/ugvaidya/home/) (DIRA). 
 
-My primary research interests are Koopman operator theory, nonlinear optimal control, and autonomous robotic systems. I am a firm believer in open-source projects, and have learned from many great projects in the past, such as:
+My primary research interests are Koopman operator theory, nonlinear optimal control, and autonomous robotic systems. My major theoretical contributions in the field of dynamic systems and nonlinear optimal control are summarized in my thesis "[Koopman Operator Theory and The Applied Perspective of Modern Data-Driven Systems](https://tigerprints.clemson.edu/all_theses/3941/)". 
+
+I am a firm believer in open-source projects, and have learned from many great projects in the past, such as:
 * [NVIDIA Redtail](https://github.com/NVIDIA-AI-IOT/redtail)
 * [F1TENTH](https://f1tenth.org/)
 * [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject)
