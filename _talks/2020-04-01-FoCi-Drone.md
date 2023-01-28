@@ -10,7 +10,7 @@ location: "Clemson, SC"
 
 ------
 
-Mentor: Yiqiang Han, Mechanical Engineering
+Mentor: Dr. Yiqiang Han, Mechanical Engineering
 
 Students: Phillip Do, Dane Wang, Alexander Krolicki, Duncan Mccain, Nate Powers,
 Brandon Wingard
