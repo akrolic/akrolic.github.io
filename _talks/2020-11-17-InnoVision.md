@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2020-11-17-InnoVision
 venue: "InnoVision Meet the Finalists Forum 2020"
-date: 2021-09-23
+date: 2020-11-17
 location: "Virtual Event"
 ---
 
@@ -16,7 +16,7 @@ The [InnoVision 2020 winners and finalists forum 2020](https://www.innovisionawa
 
 A team of 5 students from ME department, computer engineering and computer science have been working with Dr. Yiqiang Han on the Clemson COVID challenge competition this summer. Within only 4 weeks, the students were able to come up with a functional prototype of a complex autonomous delivery platform for this pandemic. Please see the video linked here for more details. 
 
-<img src='/images/covid_thumbnail.png' url='https://www.youtube.com/embed/FzGmHuBm_Ec'>
+[<img src='/images/covid_thumbnail.png'>](https://www.youtube.com/embed/FzGmHuBm_Ec)
 
 Team members included Yiqiang Han, Faculty Advisor, Research Assistant Professor; Rongyao ”Tony” Wang, Mechanical Engineering (ME), Graduate Student; Wenjian Hao, Mechanical Engineering (ME), Graduate Student; Alexander Krolicki, Mechanical Engineering (ME), Senior; Duncan McCain, Computer Engineering (ECE), Senior; Connor Willoughby, Computer Science (SoC), Junior; Brandon Wingard, Computer Science (SoC), Junior; Jonathan Daniel, Computer Science (SoC), Sophomore.
 
