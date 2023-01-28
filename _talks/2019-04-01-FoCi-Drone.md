@@ -4,9 +4,11 @@ collection: talks
 type: "Talk"
 permalink: /talks/2019-04-01-FoCi-Drone
 venue: "Focus on Creative Inquiry (FoCI) Poster Forum - Watt Family Innovation Center"
-date: 2020-04-01
+date: 2019-04-01
 location: "Clemson, SC"
 ---
+
+------
 
 Mentor: Dr. Yiqiang Han, Mechanical Engineering
 
@@ -19,6 +21,7 @@ Nicholson, Tony Wang
 2 hour interactive poster session [Program](/files/FoCI_2019.pdf)
 
 Abstract:
+
 Electric-powered Vertical Take-Off and Landing (VTOL) technologies are around the corner and ready
 to be applied to commercial applications, such as unmanned delivery, emergency response, survey
 and patrolling, etc. Autonomous control of an Unmanned Air Vehicle for a package delivery mission
