@@ -1,19 +1,35 @@
 ---
-title: "Deep Reinforcement Learning Approach to CPS Vehicle Re-envisioning"
+title: "Autonomous MAV Package Delivery for Urban Last Mile Project and Artificial Intelligence for Racecar Project"
 collection: talks
 type: "Talk"
-permalink: /talks/2021-12-03-ARC
-venue: "Automotive Research Center (ARC) Research Seminar - Fall Series"
-date: 2021-12-03
-location: "Ann Arbor, MI"
+permalink: /talks/2019-04-01-FoCi-Drone
+venue: "Focus on Creative Inquiry (FoCI) Poster Forum - Watt Family Innovation Center"
+date: 2020-04-01
+location: "Clemson, SC"
 ---
-[Focus Area 1.1 - Virtual Prototyping of Autonomy-Enabled Ground Systems, real-time controls group](https://arc.engin.umich.edu/research/projects/deep-reinforcement-learning-approach-to-cps-vehicle-reenvisioning/)
 
-[Ajinkya Joglekar](https://www.linkedin.com/in/ajinkyajoglekar), Ph.D. Candidate, Automotive Engineering; [Alexander Krolicki](https://www.linkedin.com/in/agkrolicki/), MS, Mechanical Engineering; [Dr. Venkat Krovi](https://www.clemson.edu/cecas/departments/automotive-engineering/people/Venkat%20Krovi.html) (PI), Michelin Endowed Chair Professor of Vehicle Automation, Clemson University
+Mentor: Dr. Yiqiang Han, Mechanical Engineering
 
-90 minute research presentation [Link](https://arc.engin.umich.edu/events/research-seminars/2021-arc-research-seminar-fall-series/)
+Co-Author: Wenjian Hao
+
+Students: Phillip Do, Alexander Krolicki, Jae Eui Lee, Dhruval Patel, Nathan Witebsky, Curdin
+Gantenbein, Meg Nuttall, Jeremiah Ballard, Jamal Nasser, Nathaniel Powers, Steven Sheets, Duncan
+Nicholson, Tony Wang
+
+2 hour interactive poster session [Program](/files/FoCI_2019.pdf)
 
 Abstract:
-Deep-learning-based methods hold enormous promise in overcoming the challenges of complexity and real-time performance in various autonomous vehicle deployments. As exemplars of systems-of-systems, autonomous vehicles (AVs) engender numerous interconnected component-, subsystem- and system-level interactions. Our work explores the creation of operational frameworks to support end-to-end deep-learning-based autonomy deployments that can support verification and validation.
-In particular, we are exploring the alternate autonomy frameworks: imitation-learning, Deep Reinforcement-Learning (DRL), and Deep-Koopman Reinforcement Learning (DKRL) with an eye to performance generalizability, scalability and robustness. Behavior cloning is a form of supervised imitation learning whose main motivation is to build a policy to mimic the human operator actions and support subsequent inferencing. While end-to-end Deep Neural Network (DNN) based policy encapsulation (e.g. mapping raw camera pixels to steering commands) can minimize dependence on feature engineering, it suffers from limited generalizability to environment changes. Deep Reinforcement Learning frameworks for learning complex model-based/model-free policies in high dimensional environments can leverage simulation/real-world data but require careful parameter/reward/algorithm selection to improve scalability, learning speed and performance. Deep-Koopman Reinforcement Learning approaches now blend the computational approximation benefits of DNNs with theoretical guarantees from dynamical systems and control in the realization of data-driven control. In particular, physics-aware yet data-driven approximation of the Koopman lifting functions via the DNNs facilitates systematic deployment of foundational linear system theory tools from optimal control to robust design with performance guarantees.
-We will also highlight the operationalization within a scaled-vehicle framework (F1/10 vehicle ecosystem) that permits transitions between different test environments (simulated vs real) during the verification and validation of the deep-learning-based autonomy algorithms while also engaging a diverse group of autonomy researchers.
+Electric-powered Vertical Take-Off and Landing (VTOL) technologies are around the corner and ready
+to be applied to commercial applications, such as unmanned delivery, emergency response, survey
+and patrolling, etc. Autonomous control of an Unmanned Air Vehicle for a package delivery mission
+is specifically considered in this project. Students in the first project will showcase their customized
+drone build and also the computer simulation environment for vision-based navigation model training.
+The objective of this project is to design, simulate and test a UAV to perform package delivery mission
+solely based on vision navigation and autonomous control techniques. This presentation will emphasize
+the simulation technique developed during this study. A “hardware-in-the-loop” testing approach was
+adopted. The control board and radio controller were connected to a virtual testing environment to
+interact with different test conditions. Dynamic response feedback can be used for testing different
+autonomous control algorithms. The hands-on programming and testing practices can also be applied
+to many other interdisciplinary projects such as self-driving car researches. The second project involves a
+technical display of a fully-autonomous 18th scale racecar finishing racing on a track. Guests can also try
+to control the racecar using a joystick and compete with the trained AI model.
