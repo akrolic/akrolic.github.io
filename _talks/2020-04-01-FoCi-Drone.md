@@ -7,6 +7,9 @@ venue: "Focus on Creative Inquiry (FoCI) Poster Forum - Watt Family Innovation C
 date: 2020-04-01
 location: "Clemson, SC"
 ---
+
+------
+
 Mentor: Yiqiang Han, Mechanical Engineering
 
 Students: Phillip Do, Dane Wang, Alexander Krolicki, Duncan Mccain, Nate Powers,
