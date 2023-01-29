@@ -10,9 +10,9 @@ location: "Virtual Event"
 
 ------
 
-See the original posting [here](https://blogs.clemson.edu/mechanical-engineering/me-team-participates-in-the-clemson-covid-challenge/)
+The [InnoVision 2020 winners and finalists forum 2020](https://www.innovisionawards.org/2020-winners-and-finalists/) was held [virtually](https://youtu.be/6R7S2EWqp1o?t=331). Our team was selected as a finalist in the Covid-19 Response Technology Research catagory. 
 
-The [InnoVision 2020 winners and finalists forum 2020](https://www.innovisionawards.org/2020-winners-and-finalists/) was held [virtually](https://youtu.be/6R7S2EWqp1o?t=331). 
+We were also recoginized by the university, our team was awarded the COVID Challenge Excellence Prize made available through funding from the Clemson CECAS Dean’s Excellence fund. I have copied the original posting below, but the original announcement is still available [here](https://blogs.clemson.edu/mechanical-engineering/me-team-participates-in-the-clemson-covid-challenge/)
 
 A team of 5 students from ME department, computer engineering and computer science have been working with Dr. Yiqiang Han on the Clemson COVID challenge competition this summer. Within only 4 weeks, the students were able to come up with a functional prototype of a complex autonomous delivery platform for this pandemic. Please see the video linked here for more details. 
 
