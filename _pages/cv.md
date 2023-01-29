@@ -46,7 +46,7 @@ Work experience
   * Constantine Engineering Associates, Charleston, SC
   * Duties included: 
     * 
-  * Supervisor: Jens Engelhardt
+  * Supervisor: Chris Constantine, PE
   
 Skills
 ======
