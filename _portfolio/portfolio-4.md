@@ -13,7 +13,7 @@ Abstract:
 The amazon DeepRacer is an autonomous race car designed to aid developers and students in learning how to implement artificial intelligence through reinforcement learning on a 1/18th scale race car. The all-wheel drive vehicle is equipped with an independent double wishbone front suspension with coilover shock absorbers. A servomotor is used to move the front tie-rods and control steering. The independent rear suspension resembles the NASCAR truck-arm style lower control arm configuration coupled with a coilover shock absorber. The vehicle has rubber tires that carry their own stiffness and dampening coefficients. The RC car is capable of reaching incredible speeds, however these speeds do not need to be achieved in order to analyze the response of the system. 
 
 <p align="center">
-<img src='/images/deep_racer.png'>
+<img src='/images/sim2real.png'>
 <br>
 Figure 1. AWS DeepRacer Chassis and Suspension Configuration.
 </p>

@@ -24,7 +24,7 @@ analysis. Altogether we present a comparison of these results, and provide quali
 the behaviors learned by the quadrupedal robot over time between the two algorithms.
 
 <p align="center">
-<img src='/images/deep_racer.png'>
+<img src='/images/sim2real.png'>
 <br>
 Figure 1. “Minitaur Robot” Transfer of control policy from simulation to physical robot [1].
 </p>
