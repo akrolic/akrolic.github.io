@@ -15,6 +15,7 @@ Education
 * B.S. in Mechanical Engineering, Clemson University, 2020
   * Minor in Mathematical Sciences
 * M.S. in Mechanical Engineering, Clemson University, 2022
+  * Concentration: Dynamic Systems and Controls
 
 Work experience
 ======
@@ -83,7 +84,7 @@ Honors and Awards
 * MarkVan Bellamy Brooks Endowed Scholarship, Issued by Brooks Sports Science - Motorsport Institute, Spring 2018
 * [F1TENTH Berlin Virtual Grand Prix](https://f1tenth.org/ifac2020.html), IFAC World Congress 2020
   * Qualified 7th overall
-  * [[Finished 5th in head-to-head grand prix](/files/SpeedTigers-berlin.pdf)
+  * [Finished 5th in head-to-head grand prix](/files/SpeedTigers-berlin.pdf)
 * [F1TENTH Las Vegas Virtual Grand Prix](https://f1tenth.org/iros2020.html), IROS 2020
   * Qualified 2nd overall
   * [Finished 4th in head-to-head grand prix](/files/speedtigers-vegas.pdf)
