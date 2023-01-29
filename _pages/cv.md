@@ -87,6 +87,6 @@ Honors and Awards
   * [Finished 5th in head-to-head grand prix](/files/SpeedTigers-berlin.pdf)
 * [F1TENTH Las Vegas Virtual Grand Prix](https://f1tenth.org/iros2020.html), IROS 2020
   * Qualified 2nd overall
-  * [Finished 4th in head-to-head grand prix](/files/speedtigers-vegas.pdf)
+  * [Finished 4th in head-to-head grand prix](/files/speedtiger-vegas.pdf)
 * COVID Challenge Excellence Prize, Summer 2020
 * InnoVision COVID-19 Response Technology Research award Finalists, Summer 2020
