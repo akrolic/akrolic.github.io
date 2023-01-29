@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Alexander Krolicki and I graduated from Clemson University the department of [Mechanical Engineering](https://www.clemson.edu/cecas/departments/me/) with my Bachelor of Science in 2020 and Masters of Science in 2022.
 
-My undergraduate advisor was [Dr. Yiqiang Han](https://www.clemson.edu/cecas/departments/me/people/faculty/han.html) and under his direction I lead the [Clemson Autonomous Systems Team](https://clemson-autonomous-systems.gitbook.io/clemson-university-autonomous-systems/). 
+My undergraduate advisor was [Dr. Yiqiang Han](https://www.clemson.edu/cecas/departments/me/people/faculty/han.html) and under his direction I lead the [Clemson Autonomous Systems Team](https://clemson-autonomous-systems.gitbook.io/clemson-university-autonomous-systems/) (CAST). 
 
 My graduate advisor was [Dr. Umesh Vaidya](https://www.clemson.edu/cecas/departments/me/people/faculty/Vaidya.html) and I helped create the [Distributed Intelligence and Robot Autonomy Lab](https://cecas.clemson.edu/ugvaidya/home/) (DIRA). 
 
