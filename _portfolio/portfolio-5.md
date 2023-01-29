@@ -1,37 +1,34 @@
 ---
-title: "Dynamic Systems Class Project: Frequency Analysis and System Response of a 1/18th Scale Race Car (AWS DeepRacer)"
-excerpt: "<br/><img src='/images/deep_racer.png'>"
+title: "Reinforcement Learning Class Project: Learning Gait Trajectories for a Quadrupedal Robot"
+excerpt: "<br/><img src='/images/sim2real.png'>"
 collection: portfolio
 ---
 
 ------
 
-This work was completed in Spring 2019 by [Alexander Krolicki](https://www.linkedin.com/in/agkrolicki/) in ME3050 Dynamic Systems, taught by [Dr. Phanindra Tallapragada](https://www.clemson.edu/cecas/departments/me/people/faculty/tallapragada.html). 
+This work was completed in Spring 2021 by [Alexander Krolicki](https://www.linkedin.com/in/agkrolicki/) and [Sarang Sutavani](https://www.linkedin.com/in/ssarang/) in ME8930 Reinforcement Learning, taught by [Dr. Umesh Vaidya](https://www.clemson.edu/cecas/departments/me/people/faculty/Vaidya.html). 
 
-
-[Final Project Report](/files/ME3050 Project Report.pdf) | [Supplemental Video](https://express.adobe.com/video/byEgTq6KgdgB1)
+[Final Project Report](/files/RL_Project__ME_8930_Krolicki_Sutavani.pdf) | [Final Project Presentation](/files/ME8930 TRPO PPO Final Presentation.pdf) | [TRPO Training Video](https://youtu.be/Z4BZgIL5d0Y) | [Code](https://colab.research.google.com/drive/14gOUZhOGHNf3ZvtpfUbgGGii3tcnbgbv?usp=sharing)
 
 Abstract:
 
-The amazon DeepRacer is an autonomous race car designed to aid developers and students in learning how to implement artificial intelligence through reinforcement learning on a 1/18th scale race car. The all-wheel drive vehicle is equipped with an independent double wishbone front suspension with coilover shock absorbers. A servomotor is used to move the front tie-rods and control steering. The independent rear suspension resembles the NASCAR truck-arm style lower control arm configuration coupled with a coilover shock absorber. The vehicle has rubber tires that carry their own stiffness and dampening coefficients. The RC car is capable of reaching incredible speeds, however these speeds do not need to be achieved in order to analyze the response of the system. 
+The focus of this paper is to provide insight regarding the importance of policy gradient methods when
+applied to continuous systems. We study the development of policy gradient algorithms, and explain
+when and how policy gradients should be applied or when they are inadequate for the given problem.
+We specifically investigate 2 well known algorithms which utilize policy gradient methods, Proximal
+Policy Optimization (PPO) and Trust Region Policy Optimization (TRPO). To better demonstrate
+in practice how these algorithms would need to be implemented, we choose to utilize a simulation
+environment to train a quadrupedal robot to learn a gait planning and control policy. We demonstrate
+the use of developmental tools which help to expedite training, hyper-parameter tuning, and model
+analysis. Altogether we present a comparison of these results, and provide qualitative commentary on
+the behaviors learned by the quadrupedal robot over time between the two algorithms.
 
 <p align="center">
-<img src='/images/deep_racer.png'>
+<img src='/images/sim2real.png'>
 <br>
-Figure 1. AWS DeepRacer Chassis and Suspension Configuration.
+Figure 1. “Minitaur Robot” Transfer of control policy from simulation to physical robot [1].
 </p>
 
-Objectives
-* Create various test tracks to simulate an input on the vehicles suspension and record the accelerations using an accelerometer from the NI-MyRIO data acquisition system. 
-* Integrate the accelerometer data and determine the displacement of the vehicle.
-* Determine the approximate stiffness of the coilovers by taking measurements of the vehicle’s springs under known loads.
-* Using the accelerometer data find the systems approximate stiffness and dampening coefficients using logarithmic decent or by measuring the maximum overshoot.
-* Find the approximate tire stiffness.
-* Create a sinusoidal track designed based on the approximate values of [m,c,k] then evaluate the theoretical response of the system to the actual response. 
-* Fine tune the parameters to determine a best fit of the system. 
+References:
 
-Project Summary: 
-
-The objective of this project is to preform experiments, gather data and model the vehicles suspension for future development of a control algorithm that would enhance the vehicles autonomous driving capabilities. Currently the car only utilizes image processing techniques to make steering and throttle decisions. The motivation for gathering this data is to create a model that approximates the response of the suspension, so that it can be incorporated into the simulation which will learn over several thousand iterations around a track. The cars goal is to complete laps around a track as fast as possible and leveraging the accelerometer data to push the car harder around corners will aid in achieving this goal.
-
-
+[1] Jie Tan, Tingnan Zhang, Erwin Coumans, Atil Iscen, Yunfei Bai, Danijar Hafner, Steven Bohez, and Vincent Vanhoucke. Sim-to-real: Learning agile locomotion for quadruped robots. arXiv preprint arXiv:1804.10332, 2018. 
