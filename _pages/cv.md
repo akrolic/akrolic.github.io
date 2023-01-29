@@ -28,25 +28,25 @@ Work experience
   * Clemson University, Distributed Intelligence and Robot Autonomy Lab - Clemson, SC
   * Duties included: 
     * 
-  * Supervisor: Dr. Umesh Vaidya
+  * Supervisor: Dr. Umesh Vaidya - Professor
 
 * Spring 2018 - Fall 2020: Undergraduate Research Assistant: Research Lead
   * Clemson University, Clemson Autonomous Systems Team - Clemson, SC
   * Duties included: 
     * 
-  * Supervisor: Dr. Yiqiang Han
+  * Supervisor: Dr. Yiqiang Han - Research Assistant Professor
 
 * Spring 2018 - Summer 2019: Development Test Engineer CO-OP
   * Rolls Royce Power Systems, Graniteville, SC
   * Duties included: 
     * 
-  * Supervisor: Jens Engelhardt
+  * Supervisor: Jens Engelhardt - Research and Development Senior Manager
 
 * Spring 2017 - Spring 2018: Mechanincal Engineering Intern
   * Constantine Engineering Associates, Charleston, SC
   * Duties included: 
     * 
-  * Supervisor: Chris Constantine, PE
+  * Supervisor: Chris Constantine, PE - Owner
   
 Skills
 ======
