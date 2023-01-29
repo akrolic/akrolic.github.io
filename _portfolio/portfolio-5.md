@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Systems Class Project: Frequency Analysis and System Response of a 1/18th Scale Race Car (AWS DeepRacer)"
-excerpt: "<br/><p align="center"><img src='/images/deep_racer.png'></p>"
+excerpt: "<br/><img src='/images/deep_racer.png'>"
 collection: portfolio
 ---
 
