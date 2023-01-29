@@ -1,6 +1,6 @@
 ---
 title: "Reinforcement Learning Class Project: Learning Gait Trajectories for a Quadrupedal Robot"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/sim2real.png'>"
 collection: portfolio
 ---
 
