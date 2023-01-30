@@ -16,6 +16,7 @@ Education
   * Minor in Mathematical Sciences
 * M.S. in Mechanical Engineering, Clemson University, 2022
   * Concentration: Dynamic Systems and Controls
+  * Thesis: "[Koopman Operator Theory and The Applied Perspective of Modern Data-Driven Systems](https://tigerprints.clemson.edu/all_theses/3941/)"
 
 Work experience
 ======
@@ -58,6 +59,7 @@ Skills
   * ASME Y14.5 GD&T
   * Component and Systems Analysis - ANSYS, SiemensNX, Simulink
   * Mechatronics Design
+  * DoE and HiL/SiL Testing Experience
 * Electrical
   * Microcontrollers - Teensy, Arduino
   * BLDC Motor Controllers - ODrive
@@ -87,6 +89,7 @@ Skills
   * Motivated
   * Goal Oriented
   * Peer - Team Player
+  * Professional
 
 Publications
 ======
