@@ -1,6 +1,6 @@
 ---
 title: "CAST - Unmanned Aerial Vehicles (UAV)"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/Drones.jpg'>"
 collection: portfolio
 ---
 

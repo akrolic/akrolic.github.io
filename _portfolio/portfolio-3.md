@@ -1,6 +1,6 @@
 ---
 title: "CAST - Unmanned Ground Vehicles (UGV)"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/AGV.png'>"
 collection: portfolio
 ---
 

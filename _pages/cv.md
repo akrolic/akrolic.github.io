@@ -21,7 +21,7 @@ Education
 Work experience
 ======
 * Summer 2022: Systems Engineering Intern
-  * [Astra](https://astra.com/) - Alameda, CA
+  * Astra - Alameda, CA
   * Duties included: 
     * 
   * Supervisor: Mark Garnett - Senior Systems Engineer
