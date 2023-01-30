@@ -51,7 +51,42 @@ Work experience
   
 Skills
 ======
-* 
+* Mechanical
+  * Machining Experience
+  * Drafting - AutoCAD, Revit
+  * Modeling - Solidworks, Fusion360, SiemensNX
+  * ASME Y14.5 GD&T
+  * Component and Systems Analysis - ANSYS, SiemensNX, Simulink
+  * Mechatronics Design
+* Electrical
+  * Microcontrollers - Teensy, Arduino
+  * BLDC Motor Controllers - ODrive
+  * Basic Circuit Design
+  * Signal Processing - Filtering, FFT, Spectrogram
+  * Intermediate Hardware Diagnostics and Inspection
+  * Communication Protocols - CAN, I2C, SPI, UART
+* Computer Science
+  * Intermediate Python
+  * Intermediate Matlab
+  * Basic C++
+  * Shell Scripting
+  * OS - Windows, Linux
+  * Container Applications - Docker
+  * Embedded Compute - NVIDIA TX2, Xavier AGX and NX, Nano
+  * Robotics Operating System (ROS) - Indigo, Kinetic, Melodic, Noetic
+  * Optimization - Gurobi, CVX, YALMIP, IPOPT, MDAO
+  * Deep Learning - Pytorch, Tensorflow
+* Team Skills
+  * Project Management
+  * Multi-disciplinary Collaberation
+  * Systems Engineering Methodology
+* Self Skills
+  * Organization
+  * Communication
+  * Reliability
+  * Motivated
+  * Goal Oriented
+  * Peer - Team Player
 
 Publications
 ======
@@ -78,9 +113,13 @@ Societies and Clubs
 * Clemson Autonomous Systems Team, Team Lead, [2018-2020]
 * Clemson Roller Skating Club [2020-2021]
 * IEEE Member, [2020-Present]
+* ASME Member, [2020-Present]
 
 Honors and Awards
 =====
+* Deans List [[Spring 2018](https://clemson.meritpages.com/stories/Alexander-G-Krolicki-of-Greer-named-to-Clemson-University-Dean-s-List-/11259628), [Spring 2019](https://clemson.meritpages.com/stories/Alexander-G-Krolicki-of-Greer-named-to-Clemson-University-Dean-s-List-/15031590)]
+* Presidents List [[Spring 2020](https://clemson.meritpages.com/stories/Alexander-G-Krolicki-of-Greer-named-to-Clemson-University-President-s-List-/32826527)]
+* Legislative Incentive for Future Excellence Scholarship
 * MarkVan Bellamy Brooks Endowed Scholarship, Issued by Brooks Sports Science - Motorsport Institute, Spring 2018
 * [F1TENTH Berlin Virtual Grand Prix](https://f1tenth.org/ifac2020.html), IFAC World Congress 2020
   * Qualified 7th overall
