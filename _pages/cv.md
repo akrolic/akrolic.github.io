@@ -23,31 +23,44 @@ Work experience
 * Summer 2022: Systems Engineering Intern
   * Astra - Alameda, CA
   * Duties included: 
-    * 
+    * Developed in house automated aero-thermal optimization tool to study rocket launch vehicle geometry trade spaces.
+    * Created software tools to expedite the development of high-level requirements for rocket launch vehicle designs.
   * Supervisor: Mark Garnett - Senior Systems Engineer
 
 * Fall 2020 - Fall 2022: Graduate Research Assistant: Research Lead
   * Clemson University, Distributed Intelligence and Robot Autonomy Lab - Clemson, SC
   * Duties included: 
-    * 
+    * Lead the construction, testing and development of an autonomous quadruped robot.
+    * Researcher at the virtual prototyping of ground vehicles (VIPR-GS) center in the real-time controls group.
+    * Developing new Koopman operator-based controls theory with major theoretical contributions in optimal control.
+    * Advising 3 undergraduate research teams in learning simulation, hardware and software for autonomous systems.
   * Supervisor: Dr. Umesh Vaidya - Professor
 
 * Spring 2018 - Fall 2020: Undergraduate Research Assistant: Research Lead
   * Clemson University, Clemson Autonomous Systems Team - Clemson, SC
   * Duties included: 
-    * 
+    * Lead 2 independent projects to develop prototype autonomous air and ground vehicles.
+    * Developed and field-tested mapping, localization, path planning and multiagent algorithms.
+    * Experience working with Robotics Operating System (ROS) and performing HITL/SITL testing.
+    * Worked with NVIDIA Jetson AI compute platforms in the Linux operating system (TX2, Xavier NX).
   * Supervisor: Dr. Yiqiang Han - Research Assistant Professor
 
 * Spring 2018 - Summer 2019: Development Test Engineer CO-OP
   * Rolls Royce Power Systems, Graniteville, SC
   * Duties included: 
-    * 
+    * Prepare experiments and follow test procedures for diesel engine development.
+    * Support a multi-disciplinary international team, communicate, and coordinate tests globally.
+    * Engine test stand data analysis and drawing conclusions from tests for further improvement.
+    * Independently managed my own time and schedule to meet internal and external deadlines.
   * Supervisor: Jens Engelhardt - Research and Development Senior Manager
 
 * Spring 2017 - Spring 2018: Mechanincal Engineering Intern
   * Constantine Engineering Associates, Charleston, SC
   * Duties included: 
-    * 
+    * Taught how to professionally interpret and create construction documents.
+    * Designed and analyzed HVAC systems, electrical circuits, and plumbing drawings. 
+    * Experience with AutoCAD, Revit, and other industry specific software for MEP design.
+    * Met with customers to discuss the scope of design, attended cite visits and budget meetings. 
   * Supervisor: Chris Constantine, PE - Owner
   
 Skills
