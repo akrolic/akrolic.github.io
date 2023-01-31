@@ -10,13 +10,32 @@ We decided to start with an open source project, which was affordable and was ca
 
 I can honestly say that this robot taught me so much and I am so grateful to have had the opportunity to learn from the project. All of the students in the DIRA lab that worked on this robot grew their understanding of mechanical, electrical, and computer science applied to robotic systems. The focus of my graduate research however was never to build or design robots, but to bring new theory into practice. 
 
-We used the robot we build in our lab to conduct experiments to validate the use of operator theory in modeling nonlinear dynamics. In particular, we published a paper to the 2022 Modeling, Estimation, and Controls Conference using this robot, proposing a strictly proprioceptive way of identifying terrain dynamics using the spectral decomposition of the Koopman Generator [2]. 
+<p align="center">
+<img src='/images/built_not_bought.jpg'>
+<br>
+Figure 1. Various stages of construction of the Clemson Tigger. 
+</p>
 
+We used the robot we build in our lab to conduct experiments to validate the use of operator theory in modeling nonlinear dynamics. In particular, we published a paper to the 2022 Modeling, Estimation, and Controls Conference using this robot, proposing a strictly proprioceptive way of identifying terrain dynamics using the spectral decomposition of the Koopman Generator [2]. 
 
 <p align="center">
 <img src='/images/terrains.png'>
 <br>
-Figure 1. The soil test bed with several terrain types. 
+Figure 3. Presenting at the 2022 Modeling, Estimation, and Controls Conference. 
+</p>
+
+<p align="center">
+<img src='/images/terrains.png'>
+<br>
+Figure 3. The soil test bed with several terrain types. 
+</p>
+
+We incorporated the Robotics Operating System (ROS) into the system to be able to collect time-synchronized snapshots of the leg positions, setpoints, and motor currents. This required constructing custom ROS messages so as to package all the information into one topic, so that the microcontroller would be able to transmit the information at a high frequency. Using these measured values, we derived quantities such as the motor torques, foot forces, and the cartesian position of the foot. This made conducting multiple experiments and collecting data stright forward using rosbag's and rqt. 
+
+<p align="center">
+<img src='/images/ros_tigger.png'>
+<br>
+Figure 3. Integrating ROS into Clemson Tigger for data collection. 
 </p>
 
 I spent most of my time researching new techniques for solving the nonlinear optimal control problem, since this is a fundamentally difficult problem, particularly for quadruped robots since they can be modeled as switched systems. I explored reinforcement learning based methods for obtaining policies for learned gaits, but it was quickly evident that there was no way to produce formal guarantees on stability of the learned policies, and performing the sim2real transformation was itself a uncertain task. Thankfully we have made major breakthroughs in solving the optimal control problem, and PhD student [Sriram S.K.S Narayanan](https://www.linkedin.com/in/sriramsundarks/) and MSME [Andrew Zhang](https://www.linkedin.com/in/andrewzheng11/) have been working towards researching novel control algorithms based on our new developments in optimal control theory. 
@@ -28,12 +47,12 @@ In order to make the control problem simpler, it is desirable to reduce the numb
 <p align="center">
 <img src='/images/wheel-leg.png'>
 <br>
-Figure 2. Clemson Tigger wheel-leg design and fabrication. 
+Figure 4. Clemson Tigger wheel-leg design and fabrication. 
 </p>
 
 We will soon be validating the performance of this new wheel-legged system this semester, and we will open-source this project for others interested in implenting this type of actuator on their own robot.
 
-During the Summer of 2022, I challanged [Jackson Erb]() and [Graham Lancaster]() to come up with a scaled up version of Clemson Tigger which was capable of carrying additional onboard sensors and an embedded compute platform so that we could further research autonomous off-road control and navigation algorithms. With the generous support of Dr. Umesh Vaidya, we completed a design which incorporated a passive suspension system which could be dynamically engaged and disengaged so that the motors were not always doing all the heavy lifting. This would enable the system to reject high frequency disturbances at speed, but still provide the flexibility of moving the arms above large obstacles with the suspension disengaged. 
+During the Summer of 2022, I challanged [Jackson Erb](https://www.linkedin.com/in/jackson-erb-327b01207) and [Graham Lancaster](https://www.linkedin.com/in/grlanca) to come up with a scaled up version of Clemson Tigger which was capable of carrying additional onboard sensors and an embedded compute platform so that we could further research autonomous off-road control and navigation algorithms. With the generous support of Dr. Umesh Vaidya, we completed a design which incorporated a passive suspension system which could be dynamically engaged and disengaged so that the motors were not always doing all the heavy lifting. This would enable the system to reject high frequency disturbances at speed, but still provide the flexibility of moving the arms above large obstacles with the suspension disengaged. 
 
 <p align="center">
 <img src='/images/TiggerXL.png'>
@@ -42,6 +61,8 @@ Figure 2. Clemson Tigger XL Concept Design.
 </p>
 
 This is a complex design concept, completed in a short amount of time. Depending on future funding, this project may be built and iterated on by future students of the DIRA lab. 
+
+
 
 References:
 
