@@ -40,7 +40,7 @@ Figure 4. Integrating ROS into Clemson Tigger for data collection.
 
 I spent most of my time researching new techniques for solving the nonlinear optimal control problem, since this is a fundamentally difficult problem, particularly for quadruped robots since they can be modeled as switched systems. I explored reinforcement learning based methods for obtaining policies for learned gaits, but it was quickly evident that there was no way to produce formal guarantees on stability of the learned policies, and performing the sim2real transformation was itself a uncertain task. Thankfully we have made major breakthroughs in solving the optimal control problem, and PhD student [Sriram S.K.S Narayanan](https://www.linkedin.com/in/sriramsundarks/) and MSME [Andrew Zhang](https://www.linkedin.com/in/andrewzheng11/) have been working towards researching novel control algorithms based on our new developments in optimal control theory. 
 
-In the meantime, there have been plenty of suboptimal solutions using MPC, and other more complex deep reinforcement learning methods coming out of MIT, USC, and ETH Zurich to name a few. The machinery and expertise employed by these groups trumps our, but we are proud of what we have been able to accomplish learning from this project and others publications in the past two years. 
+In the meantime, there have been plenty of suboptimal solutions using MPC, and other more complex deep reinforcement learning methods coming out of MIT, USC, and ETH Zurich to name a few. The machinery and expertise employed by these groups trumps ours, but we are proud of what we have been able to accomplish learning from this project and others publications in the past two years. 
 
 In order to make the control problem simpler, it is desirable to reduce the number of degrees of freedom of the robot, but still be able to retain the manuverability of the legs. In Fall 2022, [Jackson Erb]() joined our lab and conducted his undergraduate honors thesis research on the design and integration of a wheel-leg actuator for our Clemson Tigger Robot. I mentored Jackson throughout the entire process and in the end we came up with a design which was able to be integrated into the existing coaxial output shafts.
 
@@ -57,12 +57,24 @@ During the Summer of 2022, I challanged [Jackson Erb](https://www.linkedin.com/i
 <p align="center">
 <img src='/images/TiggerXL.png'>
 <br>
-Figure 6. Clemson Tigger XL Concept Design. 
+Figure 6. Clemson Tigger XL concept design. 
 </p>
 
 This is a complex design concept, completed in a short amount of time. Depending on future funding, this project may be built and iterated on by future students of the DIRA lab. 
 
+Moving in the opposite direction, we decided to construct a low cost 12 DOF quadruped robot which had recently been open-sourced by [Nathan Kau](https://nathankau.com/) and the [Stanford Robotics Club](https://stanfordstudentrobotics.org/). The [Stanford Pupper](https://stanfordstudentrobotics.org/quadruped-benchmark), is a low cost, low complexity build which is ideal for rapid development of new control algorithms. 
 
+Another Summer 2022 project was to design a scaled up version of the Stanford Pupper, which was capable of autonomous navigation using a stereo camera for mapping and object detection. The new robot needed to accomodate space for an onboard Jetson AGX embedded compute platform, enabling us to perform edge autonomy experiments. This upfit and design analysis was completed over the Summer of 2022 by [Dakota Rufino](https://www.linkedin.com/in/dakota-rufino-266277159) and we recently completed the building the robot in just under a month in our lab. 
+
+<p align="center">
+<img src='/images/terrabot.png'>
+<br>
+Figure 7. TerraBot an autonomous quadruped robot [WIP]. 
+</p>
+
+We plan on open-sourcing the scaled up design, along with the ROS navigation stack using the hardware we specified. 
+
+I am very proud to have been able to watch our team grow from just me two years ago to now 3 Masters students and 2 PhD students working on the development of these quadruped robots. This semester we started a undergraduate research team and have added 6 new undergraduates to our team and are excited to see what projects they decide to work on this semester. 
 
 References:
 
