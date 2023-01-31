@@ -19,7 +19,7 @@ Figure 1. Various stages of construction of the Clemson Tigger.
 We used the robot we build in our lab to conduct experiments to validate the use of operator theory in modeling nonlinear dynamics. In particular, we published a paper to the 2022 Modeling, Estimation, and Controls Conference using this robot, proposing a strictly proprioceptive way of identifying terrain dynamics using the spectral decomposition of the Koopman Generator [2]. 
 
 <p align="center">
-<img src='/images/terrains.png'>
+<img src='/images/mecc2022.jpg'>
 <br>
 Figure 3. Presenting at the 2022 Modeling, Estimation, and Controls Conference. 
 </p>
