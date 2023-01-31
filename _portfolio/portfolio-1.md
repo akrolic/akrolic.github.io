@@ -8,7 +8,7 @@ The primary motivation for building quadruped robots in the Distributed Intellig
 
 We decided to start with an open source project, which was affordable and was capable of performing more complex gaits than just the standard trotting or walking gait most off-the-shelf robots are capable of. We decided to build the [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject), a low-cost, high-powered quadruped robot designed by [Nathan Kau](https://nathankau.com/) and the [Stanford Robotics Club](https://stanfordstudentrobotics.org/doggo). The unique thing about this robot was that it could jump, and at the time held the record for vertical jumping agility, a measure of average vertical speed [1]. 
 
-I can honestly say that this robot taught me so much and I am so grateful to have had the opportunity to learn from the project. All of the students in the DIRA lab that worked on this robot grew their understanding of mechanical, electrical, and computer science applied to robotic systems. The focus of my graduate research however was never to build or design robots, but to bring new theory into practice. 
+I can honestly say that this robot taught me so much and I am so grateful to have had the opportunity to learn from the project. All of the students in the DIRA lab that worked on this robot grew their understanding of mechanical, electrical, and computer science applied to robotic systems. The primary focus of my graduate research however, was not to build or design robots, but to bring new theory into practice. 
 
 <p align="center">
 <img src='/images/built_not_bought.jpg'>
@@ -16,12 +16,12 @@ I can honestly say that this robot taught me so much and I am so grateful to hav
 Figure 1. Various stages of construction of the Clemson Tigger. 
 </p>
 
-We used the robot we build in our lab to conduct experiments to validate the use of operator theory in modeling nonlinear dynamics. In particular, we published a paper to the 2022 Modeling, Estimation, and Controls Conference using this robot, proposing a strictly proprioceptive way of identifying terrain dynamics using the spectral decomposition of the Koopman Generator [2]. 
+We used the robot we built in our lab to conduct experiments to validate the use of operator theory in modeling nonlinear dynamics. In particular, we published a paper to the 2022 Modeling, Estimation, and Controls Conference using this robot, proposing a strictly proprioceptive way of identifying terrain dynamics using the spectral decomposition of the Koopman Generator [2]. 
 
 <p align="center">
 <img src='/images/mecc2022.jpg'>
 <br>
-Figure 3. Presenting at the 2022 Modeling, Estimation, and Controls Conference. 
+Figure 2. Presenting at the 2022 Modeling, Estimation, and Controls Conference. 
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ We incorporated the Robotics Operating System (ROS) into the system to be able t
 <p align="center">
 <img src='/images/ros_tigger.png'>
 <br>
-Figure 3. Integrating ROS into Clemson Tigger for data collection. 
+Figure 4. Integrating ROS into Clemson Tigger for data collection. 
 </p>
 
 I spent most of my time researching new techniques for solving the nonlinear optimal control problem, since this is a fundamentally difficult problem, particularly for quadruped robots since they can be modeled as switched systems. I explored reinforcement learning based methods for obtaining policies for learned gaits, but it was quickly evident that there was no way to produce formal guarantees on stability of the learned policies, and performing the sim2real transformation was itself a uncertain task. Thankfully we have made major breakthroughs in solving the optimal control problem, and PhD student [Sriram S.K.S Narayanan](https://www.linkedin.com/in/sriramsundarks/) and MSME [Andrew Zhang](https://www.linkedin.com/in/andrewzheng11/) have been working towards researching novel control algorithms based on our new developments in optimal control theory. 
@@ -47,7 +47,7 @@ In order to make the control problem simpler, it is desirable to reduce the numb
 <p align="center">
 <img src='/images/wheel-leg.png'>
 <br>
-Figure 4. Clemson Tigger wheel-leg design and fabrication. 
+Figure 5. Clemson Tigger wheel-leg design and fabrication. 
 </p>
 
 We will soon be validating the performance of this new wheel-legged system this semester, and we will open-source this project for others interested in implenting this type of actuator on their own robot.
@@ -57,7 +57,7 @@ During the Summer of 2022, I challanged [Jackson Erb](https://www.linkedin.com/i
 <p align="center">
 <img src='/images/TiggerXL.png'>
 <br>
-Figure 2. Clemson Tigger XL Concept Design. 
+Figure 6. Clemson Tigger XL Concept Design. 
 </p>
 
 This is a complex design concept, completed in a short amount of time. Depending on future funding, this project may be built and iterated on by future students of the DIRA lab. 
