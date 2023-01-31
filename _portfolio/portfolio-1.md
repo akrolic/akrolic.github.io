@@ -62,14 +62,20 @@ Figure 6. Clemson Tigger XL concept design.
 
 This is a complex design concept, completed in a short amount of time. Depending on future funding, this project may be built and iterated on by future students of the DIRA lab. 
 
-Moving in the opposite direction, we decided to construct a low cost 12 DOF quadruped robot which had recently been open-sourced by [Nathan Kau](https://nathankau.com/) and the [Stanford Robotics Club](https://stanfordstudentrobotics.org/). The [Stanford Pupper](https://stanfordstudentrobotics.org/quadruped-benchmark), is a low cost, low complexity build which is ideal for rapid development of new control algorithms. 
+Moving in the opposite direction, we decided to construct a low cost 12 DOF quadruped robot which had recently been open-sourced by [Nathan Kau](https://nathankau.com/) and the [Stanford Robotics Club](https://stanfordstudentrobotics.org/). The [Stanford Pupper](https://stanfordstudentrobotics.org/quadruped-benchmark), is a low cost, low complexity build which is ideal for rapid development of new control algorithms. I invested in building my own personal version of pupper, and honestly it was worth every penny. 
+
+<p align="center">
+<img src='/images/pupper.png'>
+<br>
+Figure 7. My own Pupper quadruped robot. 
+</p>
 
 Another Summer 2022 project was to design a scaled up version of the Stanford Pupper, which was capable of autonomous navigation using a stereo camera for mapping and object detection. The new robot needed to accomodate space for an onboard Jetson AGX embedded compute platform, enabling us to perform edge autonomy experiments. This upfit and design analysis was completed over the Summer of 2022 by [Dakota Rufino](https://www.linkedin.com/in/dakota-rufino-266277159) and we recently completed the building the robot in just under a month in our lab. 
 
 <p align="center">
 <img src='/images/terrabot.png'>
 <br>
-Figure 7. TerraBot an autonomous quadruped robot [WIP]. 
+Figure 8. TerraBot an autonomous quadruped robot [WIP]. 
 </p>
 
 We plan on open-sourcing the scaled up design, along with the ROS navigation stack using the hardware we specified. 
