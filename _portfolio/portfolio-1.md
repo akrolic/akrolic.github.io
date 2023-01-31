@@ -19,7 +19,17 @@ We used the robot we build in our lab to conduct experiments to validate the use
 Figure 1. The soil test bed with several terrain types. 
 </p>
 
+I spent most of my time researching new techniques for solving the nonlinear optimal control problem, since this is a fundamentally difficult problem, particularly for quadruped robots since they can be modeled as switched systems. I explored reinforcement learning based methods for obtaining policies for learned gaits, but it was quickly evident that there was no way to produce formal guarantees on stability of the learned policies, and performing the sim2real transformation was itself a uncertain task. Thankfully we have made major breakthroughs in solving the optimal control problem, and PhD student [Sriram S.K.S Narayanan](https://www.linkedin.com/in/sriramsundarks/) and MSME [Andrew Zhang](https://www.linkedin.com/in/andrewzheng11/) have been working towards researching novel control algorithms based on our new developments in optimal control theory. 
 
+In the meantime, there have been plenty of suboptimal solutions using MPC, and other more complex deep reinforcement learning methods coming out of MIT, USC, and ETH Zurich to name a few. The machinery and expertise employed by these groups trumps our, but we are proud of what we have been able to accomplish learning from this project and others publications in the past two years. 
+
+In order to make the control problem simpler, it is desirable to reduce the number of degrees of freedom of the robot, but still be able to retain the manuverability of the legs. In Fall 2022, [Jackson Erb]() joined our lab and conducted his honors thesis research on the design and integration of a wheel-leg actuator for our Clemson Tigger Robot. I mentored Jackson throughout the entire process and in the end we came up with a design which was able to be integrated into the existing coaxial output shafts.
+
+<p align="center">
+<img src='/images/wheel-leg.png'>
+<br>
+Figure 2. Clemson Tigger wheel-leg design and fabrication. 
+</p>
 
 References:
 
