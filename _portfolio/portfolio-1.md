@@ -62,7 +62,7 @@ Figure 6. Clemson Tigger XL concept design.
 
 This is a complex design concept, completed in a short amount of time. Depending on future funding, this project may be built and iterated on by future students of the DIRA lab. 
 
-Moving in the opposite direction, we decided to construct a low cost 12 DOF quadruped robot which had recently been open-sourced by [Nathan Kau](https://nathankau.com/) and the [Stanford Robotics Club](https://stanfordstudentrobotics.org/). The [Stanford Pupper](https://stanfordstudentrobotics.org/quadruped-benchmark), is a low cost, low complexity build which is ideal for rapid development of new control algorithms. I invested in building my own personal version of pupper, and honestly it was worth every penny. 
+Moving in the opposite direction, we decided to construct a low cost 12 DOF quadruped robot which had recently been open-sourced by [Nathan Kau](https://nathankau.com/) and the [Stanford Robotics Club](https://stanfordstudentrobotics.org/). The [Stanford Pupper](https://stanfordstudentrobotics.org/quadruped-benchmark), is a low cost, agile, low complexity build which is ideal for rapid development of new control algorithms [3]. I invested in building my own personal version of pupper, and honestly it was worth every penny. 
 
 <p align="center">
 <img src='/images/pupper.png'>
@@ -87,3 +87,5 @@ References:
 [1] N. Kau, A. Schultz, N. Ferrante and P. Slade, "Stanford Doggo: An Open-Source, Quasi-Direct-Drive Quadruped," 2019 International Conference on Robotics and Automation (ICRA), Montreal, QC, Canada, 2019, pp. 6309-6315, doi: 10.1109/ICRA.2019.8794436.
 
 [2] A. Krolicki, D. Rufino, A. Zheng, S. Narayanan, J. Erb, U. Vaidya, "Modeling Quadruped Leg Dynamics on Deformable Terrains using Data-driven Koopman Operators." IFAC-PapersOnLine, Volume 55, Issue 37, 2022, Pages 420-425, ISSN 2405-8963, doi: 10.1016/j.ifacol.2022.11.219.
+
+[3] N. Kau, "Stanford Pupper: A Low-Cost Agile Quadruped Robot for Benchmarking and Education", arXiv, 2021, doi: 10.48550/ARXIV.2110.00736
