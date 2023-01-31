@@ -23,13 +23,25 @@ I spent most of my time researching new techniques for solving the nonlinear opt
 
 In the meantime, there have been plenty of suboptimal solutions using MPC, and other more complex deep reinforcement learning methods coming out of MIT, USC, and ETH Zurich to name a few. The machinery and expertise employed by these groups trumps our, but we are proud of what we have been able to accomplish learning from this project and others publications in the past two years. 
 
-In order to make the control problem simpler, it is desirable to reduce the number of degrees of freedom of the robot, but still be able to retain the manuverability of the legs. In Fall 2022, [Jackson Erb]() joined our lab and conducted his honors thesis research on the design and integration of a wheel-leg actuator for our Clemson Tigger Robot. I mentored Jackson throughout the entire process and in the end we came up with a design which was able to be integrated into the existing coaxial output shafts.
+In order to make the control problem simpler, it is desirable to reduce the number of degrees of freedom of the robot, but still be able to retain the manuverability of the legs. In Fall 2022, [Jackson Erb]() joined our lab and conducted his undergraduate honors thesis research on the design and integration of a wheel-leg actuator for our Clemson Tigger Robot. I mentored Jackson throughout the entire process and in the end we came up with a design which was able to be integrated into the existing coaxial output shafts.
 
 <p align="center">
 <img src='/images/wheel-leg.png'>
 <br>
 Figure 2. Clemson Tigger wheel-leg design and fabrication. 
 </p>
+
+We will soon be validating the performance of this new wheel-legged system this semester, and we will open-source this project for others interested in implenting this type of actuator on their own robot.
+
+During the Summer of 2022, I challanged [Jackson Erb]() and [Graham Lancaster]() to come up with a scaled up version of Clemson Tigger which was capable of carrying additional onboard sensors and an embedded compute platform so that we could further research autonomous off-road control and navigation algorithms. With the generous support of Dr. Umesh Vaidya, we completed a design which incorporated a passive suspension system which could be dynamically engaged and disengaged so that the motors were not always doing all the heavy lifting. This would enable the system to reject high frequency disturbances at speed, but still provide the flexibility of moving the arms above large obstacles with the suspension disengaged. 
+
+<p align="center">
+<img src='/images/TiggerXL.png'>
+<br>
+Figure 2. Clemson Tigger XL Concept Design. 
+</p>
+
+This is a complex design concept, completed in a short amount of time. Depending on future funding, this project may be built and iterated on by future students of the DIRA lab. 
 
 References:
 
