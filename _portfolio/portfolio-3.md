@@ -29,7 +29,7 @@ Figure 2. F1TENTH competition certificates.
 Eventually, we wanted to test multi-agent algorithms and decided to experiment with a tracked vehicle rather than an ackermann steer vehicle. At this point, we were developing from our apartments, and I was working with very few resources but still was able to take an old shoe box, paint it orange and outfit a scaled tank with a 2D lidar, xbee, and stereo camera to test out multi-agent mapping algorithms. 
 
 <p align="center">
-<img src='/images/tank_pic.png'>
+<img src='/images/tank_pic.jpg'>
 <br>
 Figure 3. Pandemic Tank. 
 </p>
