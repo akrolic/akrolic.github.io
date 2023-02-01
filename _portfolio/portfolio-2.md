@@ -8,6 +8,12 @@ The Clemson Autonomous Systems Team gitbook documentation can be accessed [here]
 
 When I was a undergraduate student in Spring 2018, [Dr. Yiqiang Han](https://www.clemson.edu/cecas/departments/me/people/faculty/han.html) invited me to join his undergraduate research group who was focused on building, developing, and testing unmanned aerial vehicles. At that time, [Duncan Nicholson](https://www.linkedin.com/in/duncanicholson/) was the team lead, and he taught me all of the fundamentals of ROS, linux, and the hardware associated with the drone. 
 
+<p align="center">
+<img src='/images/foci2018.JPG'>
+<br>
+Figure 1. FoCI 2018 event showcasing the Intel Aero HiL Simulation in Gazebo. 
+</p>
+
 Our team began our journey into the autonomous drone world by experimenting with the [Intel Aero](https://docs.px4.io/main/en/complete_vehicles/intel_aero.html), an out of the box solution that allowed our team to hit the ground running on learning new techniques and algorithms on a capable computing platform. We eventually retired the development of the Aero Drone due to its limitations and restrictions in pursuing more open source solutions.
 
 Our first in house drone was designed to compete in the Vertical Flight Societies (VFS) [7th Annual MAV Student Challange](https://vtol.org/education/micro-air-vehicle-student-challenge/micro-air-vehicle-student-challenge-2019). The competition required that we construct a micro autonomous drone(<500g) to navigate and complete an indoor course with a variety of objectives to complete such as picking up a payload and dropping it off at a designated location. These technical challanges, combined with the hardware limitations at the time, made this difficult for us to complete the qualifying requirements in time to attend the event. This was also the first year of our research group's experience in building autonomous systems. It was a great learning exercise and motivation for all of us and in the end we built our first edge autonomous drone using the NVIDIA TX2 stacked on top of a px4 racer flight controller. 
@@ -15,7 +21,7 @@ Our first in house drone was designed to compete in the Vertical Flight Societie
 <p align="center">
 <img src='/images/muav.png'>
 <br>
-Figure 1. Micro autonomous drone - designed for the 7th Annual MAV Student Challange. 
+Figure 2. Micro autonomous drone - designed for the 7th Annual MAV Student Challange. 
 </p>
 
 Starting in Fall 2019, I was given the reigns and lead the UAV undergraduate research group. I started working on the [NVIDIA Redtail Project]() and the [Generalized Autonomy Aviation System](https://gaas.gitbook.io/guide/software-realization-build-your-own-autonomous-drone/gaas-zong-lan) Project. Both of these projects represented a progression in the capabilities of our team to build and develop more advanced autonomous systems. 
@@ -25,7 +31,7 @@ I built two Redtail drones, one for the university and another for my own person
 <p align="center">
 <img src='/images/redtail.jpg'>
 <br>
-Figure 2. NVIDIA Redtail Drones - Summer 2020. 
+Figure 3. NVIDIA Redtail Drones - Summer 2020. 
 </p>
 
 Work in progress...
