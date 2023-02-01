@@ -42,7 +42,7 @@ I spent most of my time researching new techniques for solving the nonlinear opt
 
 In the meantime, there have been plenty of suboptimal solutions using MPC, and other more complex deep reinforcement learning methods coming out of MIT, USC, and ETH Zurich to name a few. The machinery and expertise employed by these groups trumps ours, but we are proud of what we have been able to accomplish learning from this project and others publications in the past two years. 
 
-In order to make the control problem simpler, it is desirable to reduce the number of degrees of freedom of the robot, but still be able to retain the manuverability of the legs. In Fall 2022, [Jackson Erb]() joined our lab and conducted his undergraduate honors thesis research on the design and integration of a wheel-leg actuator for our Clemson Tigger Robot. I mentored Jackson throughout the entire process and in the end we came up with a design which was able to be integrated into the existing coaxial output shafts.
+In order to make the control problem simpler, it is desirable to reduce the number of degrees of freedom of the robot, but still be able to retain the manuverability of the legs. In Fall 2022, [Jackson Erb](https://www.linkedin.com/in/jackson-erb-327b01207) joined our lab and conducted his undergraduate honors thesis research on the design and integration of a wheel-leg actuator for our Clemson Tigger Robot. I mentored Jackson throughout the entire process and in the end we came up with a design which was able to be integrated into the existing coaxial output shafts.
 
 <p align="center">
 <img src='/images/wheel-leg.png'>
