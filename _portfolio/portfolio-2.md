@@ -4,6 +4,8 @@ excerpt: "<br/><img src='/images/Drones.jpg'>"
 collection: portfolio
 ---
 
+The Clemson Autonomous Systems Team gitbook documentation can be accessed [here](https://clemson-autonomous-systems.gitbook.io/clemson-university-autonomous-systems/development-projects), a summary of my contributions and collaberations are given below. 
+
 When I was a undergraduate student in Spring 2018, [Dr. Yiqiang Han](https://www.clemson.edu/cecas/departments/me/people/faculty/han.html) invited me to join his undergraduate research group who was focused on building, developing, and testing unmanned aerial vehicles. At that time, [Duncan Nicholson](https://www.linkedin.com/in/duncanicholson/) was the team lead, and he taught me all of the fundamentals of ROS, linux, and the hardware associated with the drone. 
 
 Our team began our journey into the autonomous drone world by experimenting with the [Intel Aero](https://docs.px4.io/main/en/complete_vehicles/intel_aero.html), an out of the box solution that allowed our team to hit the ground running on learning new techniques and algorithms on a capable computing platform. We eventually retired the development of the Aero Drone due to its limitations and restrictions in pursuing more open source solutions.
