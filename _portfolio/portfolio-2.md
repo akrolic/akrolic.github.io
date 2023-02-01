@@ -11,7 +11,7 @@ Our team began our journey into the autonomous drone world by experimenting with
 Our first in house drone was designed to compete in the Vertical Flight Societies (VFS) [7th Annual MAV Student Challange](https://vtol.org/education/micro-air-vehicle-student-challenge/micro-air-vehicle-student-challenge-2019). The competition required that we construct a micro autonomous drone(<500g) to navigate and complete an indoor course with a variety of objectives to complete such as picking up a payload and dropping it off at a designated location. These technical challanges, combined with the hardware limitations at the time, made this difficult for us to complete the qualifying requirements in time to attend the event. This was also the first year of our research group's experience in building autonomous systems. It was a great learning exercise and motivation for all of us and in the end we built our first edge autonomous drone using the NVIDIA TX2 smacked on top of a px4 racer flight controller. 
 
 <p align="center">
-<img src='/images/muav.jpg'>
+<img src='/images/muav.png'>
 <br>
 Figure 1. Micro autonomous drone - designed for the 7th Annual MAV Student Challange. 
 </p>
