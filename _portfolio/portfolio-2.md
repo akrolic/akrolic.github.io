@@ -34,6 +34,13 @@ I built two Redtail drones, one for the university and another for my own person
 Figure 3. NVIDIA Redtail Drones - Summer 2020. 
 </p>
 
+<p align="center">
+<img src='/images/foci2020.png'>
+<br>
+Figure 4. We showcased our work at the Summer 2020 FoCI event at Clemson University 
+</p>
+
+
 Work in progress...
 
 The parallels drawn between the drones Robotics Operating System (ROS) packages and the ground vehicles ROS packages made the development of the autonomous systems a collaborative project. During this time, I started to build my leadership and teamwork skills. I organized weekly team meetings and explored autonomous vehicles tech stacks with my team members. Together, we have performed simultaneous localization and mapping (SLAM), sensor fusion using extended Kalman filters (EKF), experimented with different navigation algorithms, human pose recognition, object detection algorithms, and developed deep neural networks for control and disparity map estimation. I  co-authored a publication "Cell A* for Navigation of Unmanned Aerial Vehicles in Partially-Known Environments" for the development of a novel version of Hybrid A* path planning algorithm with Dr. Han and two other graduate students [3].
