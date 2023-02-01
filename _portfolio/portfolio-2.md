@@ -48,7 +48,7 @@ Beyond just navigation, we experimented with several simultaneous localization a
 Figure 5. Redtail Drone with heatsink and fans.
 </p>
 
-The GAAS project provided some baseline SLAM algorithms, but they were written to compile on a CISC machine, and so I had to make several modifications in order to get this working on the RISC based Jetson TX2. 
+The GAAS project provided some baseline SLAM algorithms, but they were written to compile on a CISC machine, and so I had to make several modifications in order to get this working on the RISC based Jetson TX2. This exposed me to Point Cloud Library (PCL) and OpenCV, and taught me about the intrinsic parameters of cameras. 
 
 <p align="center">
 <img src='/images/slam.png'>
