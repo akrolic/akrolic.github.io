@@ -56,9 +56,9 @@ The GAAS project provided some baseline SLAM algorithms, but they were written t
 Figure 6. Visualizing some of the experiments using YGZ-SLAM and Block Matching Algorithms.
 </p>
 
-Work in progress...
+I  co-authored a publication "Cell A* for Navigation of Unmanned Aerial Vehicles in Partially-Known Environments" for the development of a novel version of Hybrid A* path planning algorithm with Dr. Han and two other graduate students [Wenjian Hao](https://www.linkedin.com/in/wenjianhao/) and [Rongyao Wang](https://www.linkedin.com/in/wang-rongyao-268036114/)[3].
 
-The parallels drawn between the drones Robotics Operating System (ROS) packages and the ground vehicles ROS packages made the development of the autonomous systems a collaborative project. During this time, I started to build my leadership and teamwork skills. I organized weekly team meetings and explored autonomous vehicles tech stacks with my team members. Together, we have performed simultaneous localization and mapping (SLAM), sensor fusion using extended Kalman filters (EKF), experimented with different navigation algorithms, human pose recognition, object detection algorithms, and developed deep neural networks for control and disparity map estimation. I  co-authored a publication "Cell A* for Navigation of Unmanned Aerial Vehicles in Partially-Known Environments" for the development of a novel version of Hybrid A* path planning algorithm with Dr. Han and two other graduate students [3].
+The parallels drawn between the drones Robotics Operating System (ROS) packages and the ground vehicles ROS packages made the development of the autonomous systems a collaborative project. During this time, I started to build my leadership and teamwork skills. I organized weekly team meetings and explored autonomous vehicles tech stacks with my team members. Together, we have performed simultaneous localization and mapping (SLAM), sensor fusion using extended Kalman filters (EKF), experimented with different navigation algorithms, human pose recognition, object detection algorithms, and developed deep neural networks for control and disparity map estimation. 
 
 [<img src='/images/ci_vid.png'>](https://www.youtube.com/watch?v=ADZdTsXEJ1I)
 
