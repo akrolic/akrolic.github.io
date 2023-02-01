@@ -16,9 +16,9 @@ Our first in house drone was designed to compete in the Vertical Flight Societie
 Figure 1. Micro autonomous drone - designed for the 7th Annual MAV Student Challange. 
 </p>
 
+Work in progress...
 
-
-I was the team lead in developing autonomous control algorithms for both the drone and race car projects. The parallels drawn between the drones Robotics Operating System (ROS) packages and the ground vehicles ROS packages made the development of the autonomous systems a collaborative project. During this time, I started to build my leadership and teamwork skills. I organized weekly team meetings and explored autonomous vehicles tech stacks with my team members. Together, we have performed simultaneous localization and mapping (SLAM), sensor fusion using extended Kalman filters (EKF), experimented with different navigation algorithms, human pose recognition, object detection algorithms, and developed deep neural networks for control and disparity map estimation. I recently co-authored in a publication "Cell A* for Navigation of Unmanned Aerial Vehicles in Partially-Known Environments" for my work in the development of a novel version of Hybrid A* path planning algorithm with Dr. Han and two other graduate students.
+I was the team lead in developing autonomous control algorithms for both the drone and race car projects. The parallels drawn between the drones Robotics Operating System (ROS) packages and the ground vehicles ROS packages made the development of the autonomous systems a collaborative project. During this time, I started to build my leadership and teamwork skills. I organized weekly team meetings and explored autonomous vehicles tech stacks with my team members. Together, we have performed simultaneous localization and mapping (SLAM), sensor fusion using extended Kalman filters (EKF), experimented with different navigation algorithms, human pose recognition, object detection algorithms, and developed deep neural networks for control and disparity map estimation. I  co-authored a publication "Cell A* for Navigation of Unmanned Aerial Vehicles in Partially-Known Environments" for the development of a novel version of Hybrid A* path planning algorithm with Dr. Han and two other graduate students [3].
 
 References:
 
