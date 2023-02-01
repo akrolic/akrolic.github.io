@@ -24,7 +24,7 @@ Our first in house drone was designed to compete in the Vertical Flight Societie
 Figure 2. Micro autonomous drone - designed for the 7th Annual MAV Student Challange. 
 </p>
 
-Starting in Fall 2019, I was given the reigns and lead the UAV undergraduate research group. I started working on the [NVIDIA Redtail Project]() and the [Generalized Autonomy Aviation System](https://gaas.gitbook.io/guide/software-realization-build-your-own-autonomous-drone/gaas-zong-lan) Project. Both of these projects represented a progression in the capabilities of our team to build and develop more advanced autonomous systems. 
+Starting in Fall 2019, I was given the reigns and lead the UAV undergraduate research group. I started working on the [NVIDIA Redtail Project]() and the [Generalized Autonomy Aviation System](https://gaas.gitbook.io/guide/software-realization-build-your-own-autonomous-drone/gaas-zong-lan) (GAAS) Project. Both of these projects represented a progression in the capabilities of our team to build and develop more advanced autonomous systems. 
 
 I built two Redtail drones, one for the university and another for my own personal use. I affectionately named my drone Lt. Dan from the Forest Gump movies, since during early testing, crashing would lead to broken legs. Despite the challanges of testing these systems, we did so safely and in the Summer of 2020 we were able to autonomously navigate for 6 minutes over 300 meters at a remote trail using the TrailNet deep learning algorithm for navigation [2]. 
 
@@ -37,9 +37,24 @@ Figure 3. NVIDIA Redtail Drones - Summer 2020.
 <p align="center">
 <img src='/images/foci2020.png'>
 <br>
-Figure 4. We showcased our work at the Summer 2020 FoCI event at Clemson University 
+Figure 4. We showcased our work at the Summer 2020 FoCI event at Clemson University.
 </p>
 
+Beyond just navigation, we experimented with several simultaneous localization and mapping (SLAM) algorithms using visual inertial odometry obtained from the stereo camera. In order to run these CPU intensive algorithms alongside the GPU based DNN navigation algorithm, I had to modify the drone to accomodate for the heatsync and fans. 
+
+<p align="center">
+<img src='/images/hotdrone.png'>
+<br>
+Figure 5. Redtail Drone with heatsink and fans.
+</p>
+
+The GAAS project provided some baseline SLAM algorithms, but they were written to compile on a CISC machine, and so I had to make several modifications in order to get this working on the RISC based Jetson TX2. 
+
+<p align="center">
+<img src='/images/slam.png'>
+<br>
+Figure 6. Visualizing some of the experiments using YGZ-SLAM and Block Matching Algorithms.
+</p>
 
 Work in progress...
 
