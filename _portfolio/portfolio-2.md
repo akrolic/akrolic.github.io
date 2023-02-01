@@ -23,7 +23,7 @@ Starting in Fall 2019, I was given the reigns and lead the UAV undergraduate res
 I built two Redtail drones, one for the university and another for my own personal use. I affectionately named my drone Lt. Dan from the Forest Gump movies, since during early testing, crashing would lead to broken legs. Despite the challanges of testing these systems, we did so safely and in the Summer of 2020 we were able to autonomously navigate for 6 minutes over 300 meters at a remote trail using the TrailNet deep learning algorithm for navigation [2]. 
 
 <p align="center">
-<img src='/images/redtail.png'>
+<img src='/images/redtail.jpg'>
 <br>
 Figure 2. NVIDIA Redtail Drones - Summer 2020. 
 </p>
