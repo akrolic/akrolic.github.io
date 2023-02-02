@@ -29,5 +29,6 @@ Another project that I am also working on is the development of a wheel-legged v
 I am in the process of updating this webpage to include my official, and unofficial works completed during my time at Clemson University. So stay tuned for more updates to come!
 
 You can contact me by email: agkrolicki@gmail.com
-
+<p align="center">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Q6IPRAGzFvpk_XoXWJIynUwezpP5mAvlQUYDQVZ1mnI&cl=ffffff&w=a"></script>
+</p>
