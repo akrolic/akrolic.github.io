@@ -30,5 +30,5 @@ I am in the process of updating this webpage to include my official, and unoffic
 
 You can contact me by email: agkrolicki@gmail.com
 <p align="center">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Q6IPRAGzFvpk_XoXWJIynUwezpP5mAvlQUYDQVZ1mnI&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=Q6IPRAGzFvpk_XoXWJIynUwezpP5mAvlQUYDQVZ1mnI&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 </p>
