@@ -12,14 +12,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechanical Engineering, Clemson University, 2020
-  * Minor in Mathematical Sciences
 * M.S. in Mechanical Engineering, Clemson University, 2022
   * Concentration: Dynamic Systems and Controls
   * Thesis: "[Koopman Operator Theory and The Applied Perspective of Modern Data-Driven Systems](https://tigerprints.clemson.edu/all_theses/3941/)"
+* B.S. in Mechanical Engineering, Clemson University, 2020
+  * Minor in Mathematical Sciences
+
 
 Work experience
 ======
+* 2023 - Present: Research Engineer
+  * AIMdyn Inc. - Santa Barbara, CA
+  * Duties included: 
+    * Developed new algorithms for the modeling and control of network systems using Koopman operator theory.
+    * Consulted with customers on software development and supported live system testing.
+    * Co-Principal Investigator of the Mission Integrated Network Control DARPA project with BAE systems.
+  * Supervisor: Dr. Allan Avila - Senior Research Scientist
+
 * Summer 2022: Systems Engineering Intern
   * Astra - Alameda, CA
   * Duties included: 
@@ -89,6 +98,7 @@ Skills
   * Container Applications - Docker
   * Embedded Compute - NVIDIA TX2, Xavier AGX and NX, Nano
   * Robotics Operating System (ROS) - Indigo, Kinetic, Melodic, Noetic
+  * ROS2 - Dashing
   * Optimization - Gurobi, CVX, YALMIP, IPOPT, MDAO
   * Deep Learning - Pytorch, Tensorflow
 * Team Skills
