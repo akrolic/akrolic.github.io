@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Mechanical Engineer"
   location         : "Raleigh, NC, USA"
-  employer         : "AIMdyn Inc"
+  employer         : ["AIMdyn Inc"](https://aimdyn.com/)
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SyWkESMAAAAJ&hl=en&oi=sra"
   email            : "agkrolicki@gmail.com"
