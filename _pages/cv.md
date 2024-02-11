@@ -24,10 +24,10 @@ Work experience
 * 2023 - Present: Research Engineer
   * AIMdyn Inc. - Santa Barbara, CA
   * Duties included: 
-    * Developed new algorithms for the modeling and control of network systems using Koopman operator theory.
-    * Consulted with customers on software development and supported live system testing.
+    * Develop new algorithms for the modeling and control of network systems using Koopman operator theory.
+    * Consult with customers on software development and supported live system testing.
     * Co-Principal Investigator of the Mission Integrated Network Control DARPA project with BAE systems.
-  * Supervisor: Dr. Allan Avila - Senior Research Scientist
+  * Supervisor: Dr. Maria Fonoberova - Director of Research
 
 * Summer 2022: Systems Engineering Intern
   * Astra - Alameda, CA
