@@ -16,6 +16,7 @@ My graduate advisor was [Dr. Umesh Vaidya](https://www.clemson.edu/cecas/departm
 My primary research interests are Koopman operator theory, nonlinear optimal control, and autonomous robotic systems. My major theoretical contributions in the field of dynamic systems and nonlinear optimal control are summarized in my thesis "[Koopman Operator Theory and The Applied Perspective of Modern Data-Driven Systems](https://tigerprints.clemson.edu/all_theses/3941/)". 
 
 You can contact me by email: agkrolicki@gmail.com
+
 <p align="center">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=Q6IPRAGzFvpk_XoXWJIynUwezpP5mAvlQUYDQVZ1mnI&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 </p>
