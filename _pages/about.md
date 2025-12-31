@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Alexander Krolicki and I graduated from Clemson University the department of [Mechanical Engineering](https://www.clemson.edu/cecas/departments/me/) with my Bachelor of Science in 2020 and Masters of Science in 2022.
+My name is Alexander Krolicki and I am a Research Scientist at AIMdyn, Inc. 
+
+I graduated from Clemson University the department of [Mechanical Engineering](https://www.clemson.edu/cecas/departments/me/) with my Bachelor of Science in 2020 and Masters of Science in 2022.
 
 My undergraduate advisor was [Dr. Yiqiang Han](https://www.clemson.edu/cecas/departments/me/people/faculty/han.html) and under his direction I lead the [Clemson Autonomous Systems Team](https://clemson-autonomous-systems.gitbook.io/clemson-university-autonomous-systems/) (CAST). 
 
