@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[PDF Resume](/files/Alexander Krolicki Resume 2023.pdf)
+[PDF Resume](/files/Alexander Krolicki Resume 2025.pdf)
 
 Education
 ======
