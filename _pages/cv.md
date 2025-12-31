@@ -19,15 +19,17 @@ Education
   * Minor in Mathematical Sciences
 
 
-Work experience
+Work Experience
 ======
-* 2023 - Present: Research Engineer
+* 2023 - Present: Research Scientist
   * AIMdyn Inc. - Santa Barbara, CA
   * Duties included: 
     * Develop new algorithms for the modeling and control of network systems using Koopman operator theory.
     * Consult with customers on software development and supported live system testing.
-    * Co-Principal Investigator of the Mission Integrated Network Control DARPA project with BAE systems.
-  * Supervisor: Dr. Maria Fonoberova - Director of Research
+    * Co-Principal Investigator of the Mission Integrated Network Control (MINC) DARPA STO program with BAE Systems.
+    * Co-Principal Investigator of the Intelligent Networking using Koopman-based Semantics (INKS) STO DARPA program.
+    * Principal Investigator of the Flexible Networking Using Intelligent Dialecting (FLUID) DARPA STO program with Peraton Labs.
+    * Researcher on the The Right Space (TRS) DARPA DSO program.
 
 * Summer 2022: Systems Engineering Intern
   * Astra - Alameda, CA
